@@ -7,7 +7,7 @@
 ### About me:
 - I am Junior Web-developer
 - Yandex.Practicum student
-- I am inspired by writing code
+- I am from Russia, Moscow
 - I like to study new technologies
 ---
 
