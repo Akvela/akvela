@@ -17,13 +17,16 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![Express](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=Express)
+![MongoDB](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=MongoDB)
+![Node.js](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=NodeJS)
+![Jest](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=Jest)
+![Cypress](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=Cypress)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-090909?style=for-the-badge&logo=WebSockets)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
 ![LESS](https://img.shields.io/badge/-LESS-090909?style=for-the-badge&logo=LESS)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akvela&bg_color=-45,1f0230,b27dd1&count_private=true&border_radius=15&border_color=2e3440&layout=compact&card_width=250&hide_border=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-![stats](https://github-readme-stats.vercel.app/api?username=Akvela&custom_title=GitHub%20Stats&count_private=true&show_icons=true&bg_color=-65,1f0230,b27dd1&icon_color=81A1C1&border_radius=15&border_color=2e3440&hide=stars&line_height=24&hide_border=true&theme=material-palenight)
 
 ---
 
