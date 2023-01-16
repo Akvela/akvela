@@ -1,8 +1,7 @@
+## Hi there
 <div id="header" align="center">
-  <img alt="Cat" width="460px" src="https://i.gifer.com/fetch/w300-preview/00/00580745c56acbf5d2bd0e022e91beb9.gif" />
+  <img alt="Cat" width="350px" src="https://sun9-9.userapi.com/impg/Iu8ZEbH-u4-9vjcQWxh5FfukcQNbHpeAlr0ZBw/fru6x7GSndA.jpg?size=604x427&quality=96&sign=55618e6a98d0e9a9965e7474bc428917&type=album" />
 </div>
-
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 
 ### About me:
 - I am Web-developer
