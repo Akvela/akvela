@@ -1,6 +1,6 @@
 ## Hi there
 <div id="header" align="center">
-  <img alt="Cat" width="350px" src="https://sun9-9.userapi.com/impg/Iu8ZEbH-u4-9vjcQWxh5FfukcQNbHpeAlr0ZBw/fru6x7GSndA.jpg?size=604x427&quality=96&sign=55618e6a98d0e9a9965e7474bc428917&type=album" />
+  <img alt="Cat" width="500px" src="https://avatars.mds.yandex.net/get-images-cbir/2512302/66ZvELDgmemascibEOElWQ7832/ocr" />
 </div>
 
 ### About me:
