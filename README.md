@@ -1,11 +1,7 @@
 ## Hi there
-<div id="header" align="center">
-  <img alt="Cat" width="500px" src="https://avatars.mds.yandex.net/get-images-cbir/2512302/66ZvELDgmemascibEOElWQ7832/ocr" />
-</div>
 
 ### About me:
 - I am Web-developer
-- Yandex.Practicum student
 - I am from Russia, Moscow
 - I like to study new technologies
 ---
